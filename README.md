@@ -1,3 +1,3 @@
 # SD100
 
-hello appium
+hello appium python
